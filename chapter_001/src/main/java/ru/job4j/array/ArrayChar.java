@@ -25,6 +25,5 @@ class ArrayChar {
         }
         return result;
     }
-
 }
 
