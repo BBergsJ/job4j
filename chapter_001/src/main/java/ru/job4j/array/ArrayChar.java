@@ -26,3 +26,11 @@ class ArrayChar {
         return result;
     }
 }
+
+
+
+
+
+
+
+
